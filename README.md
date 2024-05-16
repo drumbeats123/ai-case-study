@@ -1,9 +1,4 @@
 
-<svg height="100" width="100"> 
-            <circle cx="50" cy="50" r="40" stroke="black" 
-                    stroke-width="3" fill="red" /> 
-</svg>
-
 <img src="https://www.soundhound.com/wp-content/uploads/2023/09/soundhound_ai_logo_BLACK3-01.svg" height="30" alt="SoundHound Logo"/>
 
 ## Overview and Origin
@@ -60,22 +55,24 @@ In 1990, Dragon introduced its first speech recognition software, "Dragon Dictat
 
 It was not until 2010 that Google brought speech recognition technology to the forefront of innovation with the introduction of their Google Voice Search app. Siri was introduced just 1 year later by Apple, becoming instantly famous for her ability to accurately process natural utterances and ability to respond using conversational language. Siri's success fueled innovation in the field and was soon joined by Amazon's Alexa and voice recognition technologies have since been integrated into computers, video games, cars, smartphones, watches, appliances and a plethora of other voice activated/controlled devices in English as well as other languages.
 
-Other companies that hold a stake in this field are Google, Apple, Amazon
+Other companies that hold a stake in this field are Shazam, Google, Nuance Communications, Deepgram and Fano Labs to name a few.
 
 ## Results
 
-What has been the business impact of this company so far?
-
-What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-How is your company performing relative to competitors in the same field?
+SoundHound AI Inc. has had a positive impact on the NLP market thus far with integration into automobiles, IoT devices and recent acquisition of SYNC3 Restaurant Solutions. SoundHound AI remains a leader in voice AI with continuous investment in research and development.
 
 ## Recommendations
 
-If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+As the creator of the most used music recognition software, SoundHound, they should consider developing a AI driven music generation app/platform that would allow musicians, both professional and amateurs, to create their own music. They could also have a platform similar to SoundCloud to showcase only AI generated music created by their users.
 
-Why do you think that offering this product or service would benefit the company?
+I believe this would allow amateurs who would like to create music a chance to share their musical ideas and visions without necessarily having to learn an instrument or tinker with complex music creation softwares like [Reason](https://www.reasonstudios.com/) in turn creating a previously untapped, unexplored market in music creation.
 
-What technologies would this additional product or service utilize?
-
-Why are these technologies appropriate for your solution?
+## References
+1. SoundHound AI - https://www.soundhound.com/ <br>
+2. Midomi - https://www.midomi.com <br>
+3. 42 Top AI Startups to Watch in 2024 - https://startupsavant.com/startups-to-watch/ai <br>
+4. Speech Recognition Software: Past, Present, and Future - https://summalinguae.com/language-technology/speech-recognition-software-history-future/ <br>
+5. SoundHound – Founders, Business Model, Valuation, Competitors - https://thebrandhopper.com/2024/01/21/soundhound-founders-business-model-valuation-competitors/ <br>
+6. From Audrey to Siri: The Evolution of Speech Recognition Technology - https://verbit.ai/from-audrey-to-siri-the-evolution-of-speech-recognition-technologies/ <br>
+7. StackShare - SoundHound - https://stackshare.io/soundhound/soundhound <br>
+8. Wikipedia - https://en.wikipedia.org/wiki/SoundHound <br>
