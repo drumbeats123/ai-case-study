@@ -1,4 +1,10 @@
-<img src="https://www.soundhound.com/wp-content/uploads/2023/09/soundhound_ai_logo_BLACK3-01.svg" height="30" alt="SoundHound Logo" style="background-color:white"/>
+
+<svg height="100" width="100"> 
+            <circle cx="50" cy="50" r="40" stroke="black" 
+                    stroke-width="3" fill="red" /> 
+</svg>
+
+<img src="https://www.soundhound.com/wp-content/uploads/2023/09/soundhound_ai_logo_BLACK3-01.svg" height="30" alt="SoundHound Logo"/>
 
 ## Overview and Origin
 
