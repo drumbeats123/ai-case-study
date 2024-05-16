@@ -28,7 +28,7 @@ Their journey so far -
 - **2021** &ndash; Continues to expand partnerships and SoundHound experiences revenue acceleration, global scale, availability of 25 languages and introduces a monetization platform.
 - **2022** &ndash; Enters public market as SoundHound AI Inc. traded on Nasdaq under the symbol "SOUN".
 - **2023** &ndash; Launches SoundHound Chat AI which combines SoundHound's best-in-class conversational AI technology with GenAI platforms to create the next generation of voice assistants.
-- **2024** &ndash; Acquires Synq3 Restaurant Solutions for $25 million, creating a new AI market leader in the restaurant industry with over 10,000 live locations.
+- **2024** &ndash; Acquires SYNQ3 Restaurant Solutions for $25 million, creating a new AI market leader in the restaurant industry with over 10,000 live locations.
 
 SoundHound AI Inc. has received about $451 million in funding from post-IPO debt.
 
@@ -36,7 +36,7 @@ SoundHound AI Inc. has received about $451 million in funding from post-IPO debt
 
 SoundHound AI Inc. is using innovative AI technlogies to allow developers and business owners to maintain control over their brand image from anywhere using voice-enabled AI.
 
-They have partnered with several automotive companies (Hyundai, Mercedes-Benz, Honda, etc.), Restaurants (through acquisition of Synq3) as well as software companies (Snap Inc. and Pandora) and electronics brands for voice enabled products (Harman, VIZIO, Motorola) allowing them to reach a wide variety of customers worldwide with hundreds of millions of end-users.
+They have partnered with several automotive companies (Hyundai, Mercedes-Benz, Honda, etc.), Restaurants (through acquisition of SYNQ3) as well as software companies (Snap Inc. and Pandora) and electronics brands for voice enabled products (Harman, VIZIO, Motorola) allowing them to reach a wide variety of customers worldwide with hundreds of millions of end-users.
 
 Technologies currently used by SoundHound AI Inc.-
 - Java
@@ -66,7 +66,7 @@ Other companies that hold a stake in this field are Shazam, Google, Nuance Commu
 
 ## Results
 
-SoundHound AI Inc. has had a positive impact on the NLP market thus far with integration into automobiles, IoT devices and recent acquisition of SYNC3 Restaurant Solutions. SoundHound AI remains a leader in voice AI with continuous investment in research and development.
+SoundHound AI Inc. has had a positive impact on the NLP market thus far with integration into automobiles, IoT devices and recent acquisition of SYNQ3 Restaurant Solutions. SoundHound AI remains a leader in voice AI with continuous investment in research and development.
 
 ## Recommendations
 
