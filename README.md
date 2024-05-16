@@ -2,27 +2,33 @@
 
 <img src="https://www.soundhound.com/wp-content/uploads/2023/09/soundhound_ai_logo_BLACK3-01.svg" height="30" alt="SoundHound Logo"/>
 
+>*“We believe every product and service should be voice-enabled and that\
+>every person should have the same access to technology through a simple\
+>interface. Voice AI is part of that promise, making life simpler, more\
+>convenient, and safer for more people.”\
+>-Keyvan Mohajer (Co-founder and CEO, SoundHound AI)*
+
 ## Overview and Origin
 
 [SoundHound](https://www.soundhound.com/) was founded by 3 Stanford graduates, Keyvan Mohajer, James Hom and Majid Emami in 2005 with one vision in mind:
 
->"In our lifetimes, people would talk to technology just as they do to each other."
+>*"In our lifetimes, people would talk to technology just as they do to each other."*
 
 SoundHound first created [Midomi](https://www.midomi.com), a music recognition platform in 2006 which was later rebranded as SoundHound but is still available as a web version. 
 
 Their journey so far - 
-- 2005 &ndash; Founded by 3 Stanford graduates, Keyvan Mohajer, James Hom and Majid Emami.
-- 2006 &ndash; Introduced [Midomi](https://www.midomi.com) a music recognition platform.
-- 2009 &ndash; Rebranded Midomi as SoundHound. Work continues on voice AI technology that allows people to interact with technology using their voice.
-- 2015 &ndash; SoundHound's voice AI platform is introduced along with its breakthrough Speech-to-Meaning&#174; and Deep Meaning Understanding&#174; technologies
-- 2017 &ndash; Hyundai and SoundHound announce agreement to develop Hyundai's "Intelligent Personal Agent" , a voice-enabled virtual assistant system.
-- 2018 &ndash; SoundHound has agreements to voice-enable products from Mercedes-Benz, Motorola, PSA Auto, Deutsche Telecom, Harman and more.
-- 2019 &ndash; SoundHound powers voice experiences for Pandora and Honda.
-- 2020 &ndash; Continues voice AI expansion with the addition of VIZIO, Snap Inc. and partners with Mastercard to voice-enable drive-thru experiences.
-- 2021 &ndash; Continues to expand partnerships and SoundHound experiences revenue acceleration, global scale, availability of 25 languages and introduces a monetization platform.
-- 2022 &ndash; Enters public market as SoundHound AI Inc. traded on Nasdaq under the symbol "SOUN".
-- 2023 &ndash; Launches SoundHound Chat AI which combines SoundHound's best-in-class conversational AI technology with GenAI platforms to create the next generation of voice assistants.
-- 2024 &ndash; Acquires Synq3 Restaurant Solutions for $25 million, creating a new AI market leader in the restaurant industry with over 10,000 live locations.
+- **2005** &ndash; Founded by 3 Stanford graduates, Keyvan Mohajer, James Hom and Majid Emami.
+- **2006** &ndash; Introduced [Midomi](https://www.midomi.com) a music recognition platform.
+- **2009** &ndash; Rebranded Midomi as SoundHound. Work continues on voice AI technology that allows people to interact with technology using their voice.
+- **2015** &ndash; SoundHound's voice AI platform is introduced along with its breakthrough Speech-to-Meaning&#174; and Deep Meaning Understanding&#174; technologies
+- **2017** &ndash; Hyundai and SoundHound announce agreement to develop Hyundai's "Intelligent Personal Agent" , a voice-enabled virtual assistant system.
+- **2018** &ndash; SoundHound has agreements to voice-enable products from Mercedes-Benz, Motorola, PSA Auto, Deutsche Telecom, Harman and more.
+- **2019** &ndash; SoundHound powers voice experiences for Pandora and Honda.
+- **2020** &ndash; Continues voice AI expansion with the addition of VIZIO, Snap Inc. and partners with Mastercard to voice-enable drive-thru experiences.
+- **2021** &ndash; Continues to expand partnerships and SoundHound experiences revenue acceleration, global scale, availability of 25 languages and introduces a monetization platform.
+- **2022** &ndash; Enters public market as SoundHound AI Inc. traded on Nasdaq under the symbol "SOUN".
+- **2023** &ndash; Launches SoundHound Chat AI which combines SoundHound's best-in-class conversational AI technology with GenAI platforms to create the next generation of voice assistants.
+- **2024** &ndash; Acquires Synq3 Restaurant Solutions for $25 million, creating a new AI market leader in the restaurant industry with over 10,000 live locations.
 
 SoundHound AI Inc. has received about $451 million in funding from post-IPO debt.
 
