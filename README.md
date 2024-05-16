@@ -68,11 +68,11 @@ As the creator of the most used music recognition software, SoundHound, they sho
 I believe this would allow amateurs who would like to create music a chance to share their musical ideas and visions without necessarily having to learn an instrument or tinker with complex music creation softwares like [Reason](https://www.reasonstudios.com/) in turn creating a previously untapped, unexplored market in music creation.
 
 ## References
-1. SoundHound AI - https://www.soundhound.com/ <br>
-2. Midomi - https://www.midomi.com <br>
-3. 42 Top AI Startups to Watch in 2024 - https://startupsavant.com/startups-to-watch/ai <br>
-4. Speech Recognition Software: Past, Present, and Future - https://summalinguae.com/language-technology/speech-recognition-software-history-future/ <br>
-5. SoundHound – Founders, Business Model, Valuation, Competitors - https://thebrandhopper.com/2024/01/21/soundhound-founders-business-model-valuation-competitors/ <br>
-6. From Audrey to Siri: The Evolution of Speech Recognition Technology - https://verbit.ai/from-audrey-to-siri-the-evolution-of-speech-recognition-technologies/ <br>
-7. StackShare - SoundHound - https://stackshare.io/soundhound/soundhound <br>
-8. Wikipedia - https://en.wikipedia.org/wiki/SoundHound <br>
+1. SoundHound AI - https://www.soundhound.com/
+2. Midomi - https://www.midomi.com
+3. 42 Top AI Startups to Watch in 2024 - https://startupsavant.com/startups-to-watch/ai
+4. Speech Recognition Software: Past, Present, and Future - https://summalinguae.com/language-technology/speech-recognition-software-history-future/
+5. SoundHound – Founders, Business Model, Valuation, Competitors - https://thebrandhopper.com/2024/01/21/soundhound-founders-business-model-valuation-competitors/
+6. From Audrey to Siri: The Evolution of Speech Recognition Technology - https://verbit.ai/from-audrey-to-siri-the-evolution-of-speech-recognition-technologies/
+7. StackShare - SoundHound - https://stackshare.io/soundhound/soundhound
+8. Wikipedia - https://en.wikipedia.org/wiki/SoundHound
